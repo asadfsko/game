@@ -1,0 +1,11 @@
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: linear-gradient(135deg, #1a1a1a, #333);
+  color: #e0e0e0;
+  margin: 0;
+  height: 100vh;
+  overflow: hidden;
+}
+
+/* Add the rest of your CSS here */
